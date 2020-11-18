@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TestCoronaApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="country">Country:</string>
+    <string name="confirmed">Confirmed:</string>
+    <string name="recovered">Recovered:</string>
+    <string name="deaths">Deaths:</string>
+    <string name="date">Date:</string>
+    <string name="by_country">By Country</string>
+    <string name="my_country">My Country</string>
+    <string name="near_by">Near By</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="date_before_error_message">The selected date is before from date</string>
+    <string name="date_after_error_message">The selected date is after to date</string>
+    <string name="gps_disabled">The GPS is disabled, please enable it</string>
+    <string name="must_enable_gps">The GPS must be enabled for the application to work properly</string>
+    <string name="start_scan_for_infected_people">Start scanning</string>
+    <string name="scan_info">Press button to scan nearby infected people using Bluetooth</string>
+    <string name="scanning_for_near_by_people">Scanning for nearby people...</string>
+    <string name="the_device_does_not_support_bluetooth">This device does not support bluetooth</string>
+    <string name="bluetooth_must_be_enabled_for_detection">Bluetooth must be enabld to scan for nearby people</string>
+    <string name="stop_scanning">Stop scanning</string>
+    <string name="infected_person_found">An infected person found nearby</string>
+
+    <string-array name="countries">
+        <item>Select a country:</item>
+        <item>south-africa</item>
+        <item>russia</item>
+        <item>germany</item>
+    </string-array>
+</resources>
